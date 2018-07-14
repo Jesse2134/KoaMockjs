@@ -13,5 +13,8 @@
     "koa-router": "^7.4.0",
     "mockjs": "^1.0.1-beta3",
     "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "koa-bodyparser": "^4.2.1"
   }
 }

@@ -1,2 +1,0 @@
-# KoaMockjs
-Koa + Mockjs  api
